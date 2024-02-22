@@ -1,0 +1,11 @@
+C:\Jack\CODE\Catalog\Catalog.Tests.EndToEnd\bin\Debug\net8.0\Catalog.Tests.EndToEnd.deps.json
+C:\Jack\CODE\Catalog\Catalog.Tests.EndToEnd\bin\Debug\net8.0\Catalog.Tests.EndToEnd.dll
+C:\Jack\CODE\Catalog\Catalog.Tests.EndToEnd\bin\Debug\net8.0\Catalog.Tests.EndToEnd.pdb
+C:\Jack\CODE\Catalog\Catalog.Tests.EndToEnd\obj\Debug\net8.0\Catalog.Tests.EndToEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jack\CODE\Catalog\Catalog.Tests.EndToEnd\obj\Debug\net8.0\Catalog.Tests.EndToEnd.AssemblyInfoInputs.cache
+C:\Jack\CODE\Catalog\Catalog.Tests.EndToEnd\obj\Debug\net8.0\Catalog.Tests.EndToEnd.AssemblyInfo.cs
+C:\Jack\CODE\Catalog\Catalog.Tests.EndToEnd\obj\Debug\net8.0\Catalog.Tests.EndToEnd.csproj.CoreCompileInputs.cache
+C:\Jack\CODE\Catalog\Catalog.Tests.EndToEnd\obj\Debug\net8.0\Catalog.Tests.EndToEnd.dll
+C:\Jack\CODE\Catalog\Catalog.Tests.EndToEnd\obj\Debug\net8.0\refint\Catalog.Tests.EndToEnd.dll
+C:\Jack\CODE\Catalog\Catalog.Tests.EndToEnd\obj\Debug\net8.0\Catalog.Tests.EndToEnd.pdb
+C:\Jack\CODE\Catalog\Catalog.Tests.EndToEnd\obj\Debug\net8.0\ref\Catalog.Tests.EndToEnd.dll

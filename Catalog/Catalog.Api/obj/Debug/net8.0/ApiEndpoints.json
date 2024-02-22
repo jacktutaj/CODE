@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Catalog.Api.Controllers.ProductsController",
+    "Method": "Get",
+    "RelativePath": "Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Catalog.Api.Controllers.ProductsController",
+    "Method": "Post",
+    "RelativePath": "Products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Catalog.Infrasctructure.Products.CreateProduct",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

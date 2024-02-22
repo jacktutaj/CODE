@@ -1,0 +1,14 @@
+<h2>Dodaj nowy produkt</h2>
+<div>
+  <label>Kod produktu:</label>
+  <input [(ngModel)]="newProduct.code" placeholder="Kod produktu">
+</div>
+<div>
+  <label>Nazwa produktu:</label>
+  <input [(ngModel)]="newProduct.name" placeholder="Nazwa produktu">
+</div>
+<div>
+  <label>Cena produktu:</label>
+  <input type="number" step="0.01" [(ngModel)]="newProduct.price" placeholder="Cena produktu">
+</div>
+<button (click)="addProduct()">Add Product</button>

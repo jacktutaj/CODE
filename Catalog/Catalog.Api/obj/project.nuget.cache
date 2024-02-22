@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ii3+A6MQ23f3PYSlIcmeJcKmFdvV6Mx7TXuUcN8R0Iw3Z2cQ6gZxk9AvbcFRkXH46l7+eOB6oZiQlvpquZymMA==",
+  "success": true,
+  "projectFilePath": "C:\\Jack\\CODE\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

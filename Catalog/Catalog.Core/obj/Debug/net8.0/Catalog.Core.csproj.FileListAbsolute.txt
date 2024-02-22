@@ -1,0 +1,11 @@
+C:\Jack\CODE\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.deps.json
+C:\Jack\CODE\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.dll
+C:\Jack\CODE\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.pdb
+C:\Jack\CODE\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jack\CODE\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.AssemblyInfoInputs.cache
+C:\Jack\CODE\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.AssemblyInfo.cs
+C:\Jack\CODE\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.csproj.CoreCompileInputs.cache
+C:\Jack\CODE\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.dll
+C:\Jack\CODE\Catalog\Catalog.Core\obj\Debug\net8.0\refint\Catalog.Core.dll
+C:\Jack\CODE\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.pdb
+C:\Jack\CODE\Catalog\Catalog.Core\obj\Debug\net8.0\ref\Catalog.Core.dll

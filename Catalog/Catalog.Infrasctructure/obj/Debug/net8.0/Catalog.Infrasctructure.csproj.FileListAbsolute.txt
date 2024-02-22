@@ -1,0 +1,15 @@
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\bin\Debug\net8.0\Catalog.Infrasctructure.deps.json
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\bin\Debug\net8.0\Catalog.Infrasctructure.dll
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\bin\Debug\net8.0\Catalog.Infrasctructure.pdb
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\bin\Debug\net8.0\Catalog.Core.dll
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\bin\Debug\net8.0\Catalog.Core.pdb
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\Catalog.Infrasctructure.csproj.AssemblyReference.cache
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\Catalog.Infrasctructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\Catalog.Infrasctructure.AssemblyInfoInputs.cache
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\Catalog.Infrasctructure.AssemblyInfo.cs
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\Catalog.Infrasctructure.csproj.CoreCompileInputs.cache
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\Catalog..504C04D9.Up2Date
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\Catalog.Infrasctructure.dll
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\refint\Catalog.Infrasctructure.dll
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\Catalog.Infrasctructure.pdb
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\ref\Catalog.Infrasctructure.dll
