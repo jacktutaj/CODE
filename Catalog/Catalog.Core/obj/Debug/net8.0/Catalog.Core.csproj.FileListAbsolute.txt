@@ -9,3 +9,4 @@ C:\Jack\CODE\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.dll
 C:\Jack\CODE\Catalog\Catalog.Core\obj\Debug\net8.0\refint\Catalog.Core.dll
 C:\Jack\CODE\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.pdb
 C:\Jack\CODE\Catalog\Catalog.Core\obj\Debug\net8.0\ref\Catalog.Core.dll
+C:\Jack\CODE\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.sourcelink.json

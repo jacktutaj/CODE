@@ -29,3 +29,5 @@ C:\Jack\CODE\Catalog\Catalog.Api\obj\Debug\net8.0\refint\Catalog.Api.dll
 C:\Jack\CODE\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.pdb
 C:\Jack\CODE\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.genruntimeconfig.cache
 C:\Jack\CODE\Catalog\Catalog.Api\obj\Debug\net8.0\ref\Catalog.Api.dll
+C:\Jack\CODE\Catalog\Catalog.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Jack\CODE\Catalog\Catalog.Api\obj\Debug\net8.0\Catalog.Api.sourcelink.json

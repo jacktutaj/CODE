@@ -1,4 +1,5 @@
 using Catalog.Core.Repositories;
+using Catalog.Infrasctructure.Mappers;
 using Catalog.Infrasctructure.Repositories;
 using Catalog.Infrasctructure.Services;
 
@@ -10,6 +11,8 @@ builder.Services.AddScoped<IProductRepository, InMemoryProductRepository>();
 builder.Services.AddScoped<IProductService, ProductService>();
 
 builder.Services.AddControllers();
+
+builder.Services.AddAutoMapper(typeof(AutoMapperConfig));
 
 var app = builder.Build();
 

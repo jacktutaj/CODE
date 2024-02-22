@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "at4yJxZvI1V0uHhBmedS+UohdM/CuI3RjI6igF7FhBRArnauib5G+j0Jaa8sGbitC/XRD8aq8REJU5N3KUm/Aw==",
+  "dgSpecHash": "bl44UB3J1MVBeWT4mz7dSQQu43Nrn3Rb4FTOT/GdQxqcVIIVSdYXzKCrKZkH/WD6+fyv02vNfUmLVrwtmGbkbw==",
   "success": true,
   "projectFilePath": "C:\\Jack\\CODE\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

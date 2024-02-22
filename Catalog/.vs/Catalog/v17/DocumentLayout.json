@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Jack\\CODE\\Catalog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D65D58E-3350-4827-8ED1-0C763D8405F7}|Catalog.Api\\Catalog.Api.csproj|c:\\jack\\code\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65D58E-3350-4827-8ED1-0C763D8405F7}|Catalog.Api\\Catalog.Api.csproj|solutionrelative:catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095DDD2E-41D1-416A-A125-BDC3462C3062}|Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj|c:\\jack\\code\\catalog\\catalog.infrasctructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095DDD2E-41D1-416A-A125-BDC3462C3062}|Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj|solutionrelative:catalog.infrasctructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095DDD2E-41D1-416A-A125-BDC3462C3062}|Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj|c:\\jack\\code\\catalog\\catalog.infrasctructure\\mappers\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095DDD2E-41D1-416A-A125-BDC3462C3062}|Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj|solutionrelative:catalog.infrasctructure\\mappers\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095DDD2E-41D1-416A-A125-BDC3462C3062}|Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj|c:\\jack\\code\\catalog\\catalog.infrasctructure\\catalog.infrasctructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{095DDD2E-41D1-416A-A125-BDC3462C3062}|Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj|solutionrelative:catalog.infrasctructure\\catalog.infrasctructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{095DDD2E-41D1-416A-A125-BDC3462C3062}|Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj|c:\\jack\\code\\catalog\\catalog.infrasctructure\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{095DDD2E-41D1-416A-A125-BDC3462C3062}|Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj|solutionrelative:catalog.infrasctructure\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7D65D58E-3350-4827-8ED1-0C763D8405F7}|Catalog.Api\\Catalog.Api.csproj|c:\\jack\\code\\catalog\\catalog.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D65D58E-3350-4827-8ED1-0C763D8405F7}|Catalog.Api\\Catalog.Api.csproj|solutionrelative:catalog.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095DDD2E-41D1-416A-A125-BDC3462C3062}|Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj|c:\\jack\\code\\catalog\\catalog.infrasctructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{095DDD2E-41D1-416A-A125-BDC3462C3062}|Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj|solutionrelative:catalog.infrasctructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{095DDD2E-41D1-416A-A125-BDC3462C3062}|Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj|c:\\jack\\code\\catalog\\catalog.infrasctructure\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{08697CEB-CE4C-476C-A4AC-9A20D0DBAB12}|Catalog.Core\\Catalog.Core.csproj|solutionrelative:catalog.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D65D58E-3350-4827-8ED1-0C763D8405F7}|Catalog.Api\\Catalog.Api.csproj|c:\\jack\\code\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D65D58E-3350-4827-8ED1-0C763D8405F7}|Catalog.Api\\Catalog.Api.csproj|solutionrelative:catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08697CEB-CE4C-476C-A4AC-9A20D0DBAB12}|Catalog.Core\\Catalog.Core.csproj|c:\\jack\\code\\catalog\\catalog.core\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08697CEB-CE4C-476C-A4AC-9A20D0DBAB12}|Catalog.Core\\Catalog.Core.csproj|solutionrelative:catalog.core\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7D65D58E-3350-4827-8ED1-0C763D8405F7}|Catalog.Api\\Catalog.Api.csproj|c:\\jack\\code\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7D65D58E-3350-4827-8ED1-0C763D8405F7}|Catalog.Api\\Catalog.Api.csproj|solutionrelative:catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{095DDD2E-41D1-416A-A125-BDC3462C3062}|Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj|c:\\jack\\code\\catalog\\catalog.infrasctructure\\catalog.infrasctructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{095DDD2E-41D1-416A-A125-BDC3462C3062}|Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj|solutionrelative:catalog.infrasctructure\\catalog.infrasctructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,43 +66,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Catalog.Infrasctructure\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Services\\ProductService.cs",
-              "RelativeToolTip": "Catalog.Infrasctructure\\Services\\ProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "DocumentIndex": 2,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Mappers\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "Catalog.Infrasctructure\\Mappers\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Mappers\\AutoMapperConfig.cs",
+              "RelativeToolTip": "Catalog.Infrasctructure\\Mappers\\AutoMapperConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:27:05.985Z"
+              "WhenOpened": "2024-02-22T22:28:29.579Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateProduct.cs",
-              "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Commands\\Products\\CreateProduct.cs",
-              "RelativeDocumentMoniker": "Catalog.Infrasctructure\\Commands\\Products\\CreateProduct.cs",
-              "ToolTip": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Commands\\Products\\CreateProduct.cs",
-              "RelativeToolTip": "Catalog.Infrasctructure\\Commands\\Products\\CreateProduct.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T19:28:17.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Catalog.Core\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Jack\\CODE\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "Catalog.Core\\Repositories\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T10:55:35.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\DTO\\ProductDto.cs",
               "RelativeDocumentMoniker": "Catalog.Infrasctructure\\DTO\\ProductDto.cs",
@@ -111,19 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Api\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Catalog.Api\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Jack\\CODE\\Catalog\\Catalog.Api\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Catalog.Api\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:27:12.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "Catalog.Infrasctructure\\Services\\IProductService.cs",
@@ -131,23 +100,90 @@
               "RelativeToolTip": "Catalog.Infrasctructure\\Services\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T19:59:28.531Z"
+              "WhenOpened": "2024-02-22T19:59:28.531Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Api\\Program.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Program.cs",
               "ToolTip": "C:\\Jack\\CODE\\Catalog\\Catalog.Api\\Program.cs",
               "RelativeToolTip": "Catalog.Api\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T11:58:47.495Z"
+              "WhenOpened": "2024-02-21T11:58:47.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Catalog.Infrasctructure\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Services\\ProductService.cs",
+              "RelativeToolTip": "Catalog.Infrasctructure\\Services\\ProductService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:27:05.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Catalog.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Jack\\CODE\\Catalog\\Catalog.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Catalog.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:27:12.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Catalog.Infrasctructure.csproj",
+              "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj",
+              "RelativeDocumentMoniker": "Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj",
+              "ToolTip": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj",
+              "RelativeToolTip": "Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-21T11:21:35.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Catalog.Core\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Jack\\CODE\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Catalog.Core\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:55:35.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "CreateProduct.cs",
+              "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Commands\\Products\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "Catalog.Infrasctructure\\Commands\\Products\\CreateProduct.cs",
+              "ToolTip": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Commands\\Products\\CreateProduct.cs",
+              "RelativeToolTip": "Catalog.Infrasctructure\\Commands\\Products\\CreateProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:28:17.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "InMemoryProductRepository.cs",
               "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Repositories\\InMemoryProductRepository.cs",
               "RelativeDocumentMoniker": "Catalog.Infrasctructure\\Repositories\\InMemoryProductRepository.cs",
@@ -155,11 +191,12 @@
               "RelativeToolTip": "Catalog.Infrasctructure\\Repositories\\InMemoryProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T10:54:33.772Z"
+              "WhenOpened": "2024-02-22T10:54:33.772Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Catalog.Api\\appsettings.json",
@@ -167,11 +204,12 @@
               "RelativeToolTip": "Catalog.Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-21T11:14:40.25Z"
+              "WhenOpened": "2024-02-21T11:14:40.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Core\\Domain\\Product.cs",
               "RelativeDocumentMoniker": "Catalog.Core\\Domain\\Product.cs",
@@ -179,31 +217,21 @@
               "RelativeToolTip": "Catalog.Core\\Domain\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T14:19:42.813Z"
+              "WhenOpened": "2024-02-21T14:19:42.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Catalog.Api.csproj",
               "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
               "RelativeDocumentMoniker": "Catalog.Api\\Catalog.Api.csproj",
               "ToolTip": "C:\\Jack\\CODE\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
               "RelativeToolTip": "Catalog.Api\\Catalog.Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-21T11:22:54.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Catalog.Infrasctructure.csproj",
-              "DocumentMoniker": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj",
-              "RelativeDocumentMoniker": "Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj",
-              "ToolTip": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj",
-              "RelativeToolTip": "Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-21T11:21:35.203Z"
+              "WhenOpened": "2024-02-21T11:22:54.24Z",
+              "EditorCaption": ""
             }
           ]
         }

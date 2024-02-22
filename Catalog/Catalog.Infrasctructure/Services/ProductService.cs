@@ -1,3 +1,4 @@
+using AutoMapper;
 using Catalog.Core.Domain;
 using Catalog.Core.Repositories;
 using Catalog.Infrasctructure.DTO;
@@ -8,30 +9,19 @@ namespace Catalog.Infrasctructure.Services
     public class ProductService : IProductService
     {
         private readonly IProductRepository _productRepository;
+        private readonly IMapper _mapper;
 
-        public ProductService(IProductRepository productRepository)
+        public ProductService(IProductRepository productRepository, IMapper mapper)
         {
             _productRepository = productRepository;
+            _mapper = mapper;
         }
 
         public async Task<IEnumerable<ProductDto>> GetAllAsync()
         {
-            var productsDto = new List<ProductDto>();
-
             var products = await _productRepository.GetAllAsync();
 
-            foreach(var product in products)
-            {
-                productsDto.Add(
-                    new ProductDto
-                    {
-                        Code = product.Code,
-                        Name = product.Name,
-                        Price = product.Price
-                    });
-            }
-
-            return productsDto;
+            return _mapper.Map<IEnumerable<Product>, IEnumerable<ProductDto>>(products);
         }
 
         public async Task CreateAsync(int code, string name, double price) 

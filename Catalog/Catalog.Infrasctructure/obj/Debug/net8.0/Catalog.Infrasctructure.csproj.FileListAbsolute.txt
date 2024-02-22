@@ -13,3 +13,4 @@ C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\Catalog.Infrasctru
 C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\refint\Catalog.Infrasctructure.dll
 C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\Catalog.Infrasctructure.pdb
 C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\ref\Catalog.Infrasctructure.dll
+C:\Jack\CODE\Catalog\Catalog.Infrasctructure\obj\Debug\net8.0\Catalog.Infrasctructure.sourcelink.json

@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "3sj4Y/4P3vzFYe3FlkxqED7kfsCxAcE2zT8a8TB36rscXqF2KIC5kpt3uwFQhSVQmCkS/9X/KtsR60vEctCh2Q==",
+  "dgSpecHash": "JaZzr6skshdWBSO6JCMQJV4Bm812zYfgcD/xTIDqRi7wpRTYqKwZ0gCxY9zhvjdOMplCritYxMRAMvt3tm0vnw==",
   "success": true,
   "projectFilePath": "C:\\Jack\\CODE\\Catalog\\Catalog.Infrasctructure\\Catalog.Infrasctructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\IWrestleWithGod\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
